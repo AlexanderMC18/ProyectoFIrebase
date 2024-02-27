@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245771264146",
+    "project_id": "notas-1031d",
+    "storage_bucket": "notas-1031d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245771264146:android:3485126b3778dde18b464b",
+        "android_client_info": {
+          "package_name": "com.kube.notasalexander"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0op85A7PWBtOWjExqOXfOiEYcqV3yiok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
